@@ -1,4 +1,4 @@
-- 👋 Hello there! This is maBatalla from Spain.
+- 👋 Hello there! This is mabatalla from Spain.
 - 👀 I’m curious about almost everything.
 - 💞️ I started coding after I meet AndroidAPS (https://androidaps.readthedocs.io/en/latest/).
      Infinite loop of grateful to those guys.
