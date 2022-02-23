@@ -3,14 +3,14 @@
     #              O                 Hello there.                                                               #
     #             _|_                This is mabatalla from Spain.                                              #
     #       ,_.-_' _ '_-._,                                                                                     #
-    #        \ (.)(.)(.) /           I’m a jr. data scientist with a background in buiding engineering          #
+    #        \ (.)(.)(.) /           I’m a jr. data scientist with a background in building engineering         #
     #     _,  `\_-===-_/`  ,_        and extensive experience as quality assurance and environmental            #
-    #    >  |----"""""----|  <       monitoring manager and also managing teams and projects in wich I          #
+    #    >  |----"""""----|  <       monitoring manager and also managing teams and projects, in which I        #
     #    `""`--/   _-@-\--`""`       try to apply agile methodologies and get the best performance and          #
     #         |===L_I===|            development of people.                                                     #
     #          \       /                                                                                        #
     #          _\__|__/_             I'd love to apply all this knowledge to improve people life, for           #
-    #          `""""`""""`           example helping to develop artificial pancreas systems,smartcities         #
+    #          `""""`""""`           example helping to develop artificial pancreas systems, smart cities       #
     #                                or more environmentally-friendly processes.                                #
     #                                                                                                           #
     =============================================================================================================
