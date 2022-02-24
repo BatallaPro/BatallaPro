@@ -21,11 +21,11 @@
           Python
 
 
-        * Web scrapping:                * EDA:                  * Data viz:        * ML:
-          Beutiful soup                   Numpy                   Matplotlib        Keras
-          Selenium                        Pandas                  Plotly            OpenCV
-                                                                  Seaborn           Scikit-Learn
-                                                                                    TensorFlow
+        * Web scrapping:                * EDA:                 * Data viz:         * ML:
+          Beutiful soup                   Numpy                  Matplotlib          Keras
+          Selenium                        Pandas                 Plotly              OpenCV
+                                          PySpark                Seaborn             Scikit-Learn
+                                                                                     TensorFlow
 
         * Project management & agile:   * Web development:
           GTD                             CSS
@@ -37,10 +37,10 @@
     
     * SOFTWARE
     
-        * IDE:                           * Version control:     * BI:               * Project management & agile:
-          Visual Studio Code               Git / Github           Excell              Slack
-          PyCharm                                                 Tableau             Trello
-          VIM                                                     Prezi               Miro
+        * IDE:                           * Version control:    * BI:               * Project management & agile:
+          Visual Studio Code               Git / Github          Excell              Slack
+          PyCharm                                                Tableau             Trello
+          VIM                                                    Prezi               Miro
           
     =============================================================================================================
 
@@ -49,9 +49,9 @@
         * Programming languajes:
           C
           
-        * Data viz:                     * Videogames:           * BI:               * Project management & agile:
-          Folium                          Pygame                  PowerBI             Lean
-          OpenStreenMap                                                               Scrum
+        * Data viz:                     * Videogames:          * BI:               * Project management & agile:
+          Folium                          Pygame                 PowerBI             Lean
+          OpenStreenMap                                                              Scrum
           
     =============================================================================================================
     #                                                                                                           #
