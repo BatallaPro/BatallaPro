@@ -9,9 +9,9 @@
     #    `""`--/   _-@-\--`""`       try to apply agile methodologies and get the best performance and          #
     #         |===L_I===|            development of people.                                                     #
     #          \       /                                                                                        #
-    #          _\__|__/_             I'd love to apply all this knowledge to improve people life, for           #
-    #          `""""`""""`           example helping to develop artificial pancreas systems, smart cities       #
-    #                                or more environmentally-friendly processes.                                #
+    #          _\__|__/_             I'd love to apply all this knowledge to improve people lives, for          #
+    #          `""""`""""`           example helping to develop artificial pancreas systems, computer vision,   #
+    #                                smart cities or more environmentally-friendly processes.                   #
     #                                                                                                           #
     =============================================================================================================
     
