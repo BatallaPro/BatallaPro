@@ -27,9 +27,9 @@
                                           PySpark                Seaborn             Scikit-Learn
                                                                                      TensorFlow
 
-        * Project management & agile:   * Web development:
-          GTD                             CSS
-          Kanban                          Divi
+        * Project management & agile:   * Web development:     * Cloud:
+          GTD                             CSS                    Databricks
+          Kanban                          Divi                   PythonAverywhere
           Last Planner System             Flask
                                           Wordpress
     
@@ -38,7 +38,7 @@
     * SOFTWARE
     
         * IDE:                           * Version control:    * BI:               * Project management & agile:
-          Visual Studio Code               Git / Github          Excell              Slack
+          Visual Studio Code               Git / Github          Excel               Slack
           PyCharm                                                Tableau             Trello
           VIM                                                    Prezi               Miro
           
