@@ -19,6 +19,7 @@
     
         * Programming languajes:
           Python
+          SQL
 
 
         * Web scrapping:                * EDA:                 * Data viz:         * ML:
