@@ -3,7 +3,7 @@
     #              O                 Hello there.                                                               #
     #             _|_                This is mabatalla from Spain.                                              #
     #       ,_.-_' _ '_-._,                                                                                     #
-    #        \ (.)(.)(.) /           I’m a jr. data scientist with a background in building engineering         #
+    #        \ (.)(.)(.) /           I’m a data scientist with a background in building engineering             #
     #     _,  `\_-===-_/`  ,_        and extensive experience as quality assurance and environmental            #
     #    >  |----"""""----|  <       monitoring manager and also managing teams and projects, in which I        #
     #    `""`--/   _-@-\--`""`       try to apply agile methodologies and get the best performance and          #
