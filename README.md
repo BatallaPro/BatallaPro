@@ -22,7 +22,7 @@
 
 
         * Web scrapping:                * EDA:                 * Data viz:         * ML:
-          Beutiful soup                   Numpy                  Matplotlib          Keras
+          Beautiful soup                  Numpy                  Matplotlib          Keras
           Selenium                        Pandas                 Plotly              OpenCV
                                           PySpark                Seaborn             Scikit-Learn
                                                                                      TensorFlow
