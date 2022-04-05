@@ -33,6 +33,7 @@
           Kanban                          CSS                    PythonAnywhere
           Last Planner System             Divi
                                           Flask
+                                          Streamlit
                                           Wordpress
     
     =============================================================================================================
