@@ -29,9 +29,10 @@
                                                                                      TensorFlow
 
         * Project management & agile:   * Web development:     * Cloud:
-          GTD                             CSS                    Databricks
-          Kanban                          Divi                   PythonAverywhere
-          Last Planner System             Flask
+          GTD                             Cpanel                 Databricks
+          Kanban                          CSS                    PythonAverywhere
+          Last Planner System             Divi
+                                          Flask
                                           Wordpress
     
     =============================================================================================================
