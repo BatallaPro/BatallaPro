@@ -30,7 +30,7 @@
 
         * Project management & agile:   * Web development:     * Cloud:
           GTD                             Cpanel                 Databricks
-          Kanban                          CSS                    PythonEverywhere
+          Kanban                          CSS                    PythonAnywhere
           Last Planner System             Divi
                                           Flask
                                           Wordpress
