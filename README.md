@@ -5,9 +5,9 @@
     #       ,_.-_' _ '_-._,                                                                                     #
     #        \ (.)(.)(.) /           I’m a data scientist with a background in building engineering             #
     #     _,  `\_-===-_/`  ,_        and extensive experience as quality assurance and environmental            #
-    #    >  |----"""""----|  <       monitoring manager and also managing teams and projects, in which I        #
-    #    `""`--/   _-@-\--`""`       try to apply agile methodologies and get the best performance and          #
-    #         |===L_I===|            development of people.                                                     #
+    #    >  |----"""""----|  <       monitoring manager. I have also managed teams and projects in other        #
+    #    `""`--/   _-@-\--`""`       fields, but trying to get the most out of every project and get the        #
+    #         |===L_I===|            best performance and development of people has been a constant.            #
     #          \       /                                                                                        #
     #          _\__|__/_             I'd love to apply all this knowledge to improve people lives, for          #
     #          `""""`""""`           example helping to develop artificial pancreas systems, computer vision,   #
@@ -20,20 +20,18 @@
         * Programming languajes:
           Python
           SQL
-
+          SAS
 
         * Web scrapping:                * EDA:                 * Data viz:         * ML:
           Beautiful soup                  Numpy                  Matplotlib          Keras
           Selenium                        Pandas                 Plotly              OpenCV
-                                          PySpark                Seaborn             Scikit-Learn
+                                                                 Seaborn             Scikit-Learn
                                                                                      TensorFlow
 
         * Project management & agile:   * Web development:     * Cloud:
-          GTD                             Cpanel                 Databricks
-          Kanban                          CSS                    PythonAnywhere
-          Last Planner System             Divi
-                                          Flask
-                                          Streamlit
+          GTD                             CSS                 AWS cloud practitioner certified
+          Kanban                          Divi                    
+          Last Planner System             Streamlit                   
                                           Wordpress
     
     =============================================================================================================
@@ -43,7 +41,6 @@
         * IDE:                           * Version control:    * BI:               * Project management & agile:
           Visual Studio Code               Git / Github          Excel               Slack
           PyCharm                                                Tableau             Trello
-          VIM                                                    Prezi               Miro
           
     =============================================================================================================
 
